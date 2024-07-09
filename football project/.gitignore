@@ -1,0 +1,14 @@
+# Private Files
+*.json
+*.txt
+__init__.__py
+
+# Data 
+*.sqlite
+*.csv
+
+# Directories
+__pycache__/
+.ipynb_checkpoints/
+football1/
+
