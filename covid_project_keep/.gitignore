@@ -1,0 +1,11 @@
+# Private Files
+*.json
+
+# Data 
+*.csv
+
+# Directories
+.ipynb_checkpoints/
+__pycache__/
+covid/
+.git/
