@@ -1,7 +1,6 @@
 # systems and database libraries
 import os
 import sqlite3
-
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -13,6 +12,7 @@ from datetime import date
 from scipy.stats import kendalltau
 
 # viz
+from IPython.display import Image
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gs
 from matplotlib.ticker import PercentFormatter
