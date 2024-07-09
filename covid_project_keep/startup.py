@@ -18,6 +18,7 @@ import matplotlib.gridspec as gs
 from matplotlib.ticker import PercentFormatter
 import seaborn as sns
 import plotly.express as px
+import plotly.io as pio
 
 # formatting
 import IPython
