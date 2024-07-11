@@ -21,5 +21,5 @@ https://lookerstudio.google.com/reporting/049799d6-908c-429a-b157-01fd5a2455c5/p
 
 ### File Names
 * Main project file: 01 football_main 2.ipynb
-* Dashboard: Football_select_figures.pdf
 * Functions: utils/functions.py
+* Dashboard: Football_select_figures.pdf - these are copies of Looker Studio visualisations (links in notebook file) that I printed out for convenience. 
