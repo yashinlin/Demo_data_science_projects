@@ -3,7 +3,7 @@
 # Project Title: Korea Covid-19 
 
 ### Description: 
-This project explores a Covid-19 dataset made available by the Korean CDC and local governments and identifies policies and strategies that government implemented that may explain trends in cases and deaths.
+This project explores a Covid-19 dataset made available by the Korean CDC and local governments and identifies policies and strategies that the Korean government implemented that may explain trends in cases and deaths. I was interested in this dataset because I had heard that the Korean government response was not as authoritarian as that of the Chinese government, yet it was pretty effective in reducing infections and deaths.
 
 ### Contents
 * Project code housed in Jupyter notebook
