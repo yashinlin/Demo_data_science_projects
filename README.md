@@ -4,4 +4,4 @@
 
 (2) 01 football project:
 * This project explores how machine learning might provide a competitive advantage in sports betting.
-* Tools: SQL, python (statsmodels, scikit-learn, machine learning, plotly, matplotlib, seaborn, etc), dashboards
+* Tools: SQL, python (statsmodels, scikit-learn, machine learning, plotly, matplotlib, seaborn, etc), Looker Studio
