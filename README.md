@@ -1,4 +1,4 @@
-This repository showcases my data science projects and technical skills
+Select projects
 
 Projects: 
 (1) covid_project_keep: 
