@@ -1,0 +1,28 @@
+# Private Files
+*.json
+*.txt
+*.log
+
+# Other files
+341.ipynb
+Scratch1.ipynb
+utils/libraries01.py
+utils/libraries02_03.py
+utils/.ipynb_checkpoints
+utils/__pycache__
+logs.log
+
+# Data 
+*.csv
+*.zip
+requirements.txt2
+
+# Directories
+deployment/
+.ipynb_checkpoints/
+catboost_info/
+data/
+riskeval/
+mlruns/
+.git/
+riskeval/
