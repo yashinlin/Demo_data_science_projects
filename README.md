@@ -5,3 +5,8 @@
 (2) 01 football project:
 * This project explores how machine learning might provide a competitive advantage in sports betting.
 * Tools: SQL, python (statsmodels, scikit-learn, plotly, matplotlib, seaborn, etc), dashboards
+
+(3) loan_default_risk:
+* This project predicts loans at risk for defaulting.
+* Tools: python (scikit-learn, matplotlib, seaborn)
+ 
