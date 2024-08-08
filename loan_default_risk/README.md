@@ -1,9 +1,5 @@
 
-## yaslin-ML.3
-
 # Project Title: Prediction of past due loans in Home Credit Group
-
-### Turing College: Module 3, Sprint 4
 
 # Context
 The [Home Credit Group](https://en.wikipedia.org/wiki/Home_Credit) operates in nine countries and focuses on installment lending primarily to people with little or no credit history. Loans can be obtained through retail shops, online through Home Credit's marketplaces in Russia, China, Philippines and Vietnam, and at third-party online stores using an app. 
