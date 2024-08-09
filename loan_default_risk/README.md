@@ -23,4 +23,3 @@ The objective for this project is to predict which loans provided by Home Credit
     03 Features from other tables.ipynb  
 * Python libraries (numbers correspond to notebooks): ./utils/libraries01 and libraries02_03
 * Functions: ./utils/functions.py
-* Deployment files: ./deployment 
