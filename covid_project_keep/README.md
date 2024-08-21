@@ -1,5 +1,3 @@
-## yaslin-DA.4
-
 # Project Title: Korea Covid-19 
 
 ### Description: 
